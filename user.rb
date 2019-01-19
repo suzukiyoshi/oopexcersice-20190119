@@ -1,5 +1,4 @@
 class User
-
   def initialize(name, rank)
     @name = name
     @rank = rank
